@@ -133,7 +133,7 @@ app.get("/read/two/:password", async (req, res) => {
     }
     console.log(sum);
 
-
+// ยังรวมชื่อไม่ได้
     // ฟังชั่น 
 
     try {
